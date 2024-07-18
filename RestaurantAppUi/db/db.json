@@ -1,0 +1,201 @@
+{
+  "Users": [
+    {
+      "id": "d6b6",
+      "email": "joy1@gmail.com",
+      "name": "joy1",
+      "password": "Joy1@1234"
+    },
+    {
+      "id": "d943",
+      "email": "he@gmail.com",
+      "password": "h123",
+      "name": "he"
+    },
+    {
+      "id": "4063",
+      "email": "jay@gmail.com",
+      "password": "Jay@123",
+      "name": "jay"
+    },
+    {
+      "id": "d12e",
+      "email": "vasudev@gmail.com",
+      "password": "Vasudev@123",
+      "name": "Vasudev"
+    },
+    {
+      "id": "167b",
+      "email": "honey@gmail.com",
+      "password": "Honey@123",
+      "name": "Honey"
+    },
+    {
+      "id": "d21a",
+      "email": "jay@gmail.com",
+      "password": "jay@123",
+      "name": "jay"
+    },
+    {
+      "id": "0c73",
+      "email": "jaya@gmail.com",
+      "password": "jaya@123",
+      "name": "jaya"
+    },
+    {
+      "id": "8e6b",
+      "email": "sign@gmail.com",
+      "password": "Sign@123",
+      "name": "sign"
+    },
+    {
+      "id": "4bfe",
+      "email": "harsh@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "2590",
+      "email": "sachin@test.com",
+      "password": "sachin@123",
+      "name": "Sanket Shinde"
+    },
+    {
+      "id": "d59b",
+      "email": "salmankhan@test.com",
+      "password": "salman@123",
+      "name": "Salman khan"
+    },
+    {
+      "id": "fb83",
+      "email": "sachin@test.com",
+      "password": "sachin@123",
+      "name": "sachin tendulkar"
+    },
+    {
+      "id": "30a9",
+      "email": "shahid@test.com",
+      "password": "shahid@123",
+      "name": "shahid kapoor"
+    },
+    {
+      "id": "e164",
+      "email": "shahid@test.com",
+      "password": "shahid@123",
+      "name": "sanket shinde"
+    },
+    {
+      "id": "388d",
+      "email": "johny@test.com",
+      "password": "123456",
+      "name": "johny"
+    }
+  ],
+  "restsurant": [
+    {
+      "id": "3",
+      "name": "Bella Italia",
+      "contact": "2345678901",
+      "address": "456 Elm Street, Midtown, NY",
+      "userId": "4bfe"
+    },
+    {
+      "id": "4",
+      "name": "Sushi World",
+      "contact": "3456789012",
+      "address": "789 Oak Street, Uptown, NY",
+      "userId": "2f0e"
+    },
+    {
+      "id": "5",
+      "name": "Mexican Fiesta",
+      "contact": "4567890123",
+      "address": "101 Pine Street, Westside, NY",
+      "userId": "0c73"
+    },
+    {
+      "id": "6",
+      "name": "Vegan Delight",
+      "contact": "5678901234",
+      "address": "202 Maple Street, Eastside, NY",
+      "userId": "d6b6"
+    },
+    {
+      "id": "bf1d",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "adf4",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "1122",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "dadd",
+      "name": "rayba",
+      "address": "pune baner",
+      "contact": "7676767676",
+      "userId": "d6b6"
+    },
+    {
+      "id": "cbf3",
+      "name": "rayba",
+      "address": "pune baner",
+      "contact": "7676767676",
+      "userId": "d6b6"
+    },
+    {
+      "id": "cb17",
+      "name": "bankss",
+      "address": "baner",
+      "contact": "7878675678",
+      "userId": "d6b6"
+    },
+    {
+      "id": "6bf6",
+      "name": "farmer's",
+      "address": "baner Pune",
+      "contact": "9867567878",
+      "userId": "4063"
+    },
+    {
+      "id": "d2bf",
+      "name": "kitchen's",
+      "address": "baner Pune",
+      "contact": "8989898989",
+      "userId": "4063"
+    },
+    {
+      "id": "2399",
+      "name": "kfc",
+      "address": "pimple saudagar",
+      "contact": "9860109689",
+      "userId": "2590"
+    },
+    {
+      "id": "6708",
+      "name": "dominos",
+      "address": "pune",
+      "contact": "9860109689",
+      "userId": "e164"
+    },
+    {
+      "id": "9a16",
+      "name": "Momos",
+      "address": "kothrud",
+      "contact": "9876432",
+      "userId": "388d"
+    }
+  ]
+}
